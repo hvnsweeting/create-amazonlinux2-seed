@@ -12,6 +12,9 @@ Boot.
 
 NOTICE: this must be on the **FIRST** boot.
 
+
+Tested on Amazon Linux 2 LTS 2.0.20210813.1 x86_64 VirtualBox image
+
 Details:
 
 - https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/amazon-linux-2-virtual-machine.html
