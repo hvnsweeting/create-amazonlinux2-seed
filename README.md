@@ -1,0 +1,1 @@
+# create-amazonlinux2-seed
